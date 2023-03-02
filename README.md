@@ -21,7 +21,7 @@ I am Akash Gupta, exploring & learning web dev everyday. I am a Backend develope
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,git,github,redis,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,git,github,redis,html,css,js,vscode)](https://skillicons.dev)
 
 
 
