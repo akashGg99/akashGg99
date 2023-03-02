@@ -4,7 +4,7 @@
 I am Akash Gupta, exploring & learning web dev everyday. I am a Backend JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/akashgupta42/)](www.linkedin.com/in/akashgupta42/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakkash15r@gmail.com)](mailto:aakkash15r@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aakkash15r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakkash15r@gmail.com)](mailto:aakkash15r@gmail.com)
 
 
 
