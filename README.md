@@ -3,7 +3,7 @@
 
 I am Akash Gupta, exploring & learning web dev everyday. I am a Backend developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-akashgupta42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/akashgupta42)](www.linkedin.com/in/akashgupta42)
+[![Linkedin Badge](https://img.shields.io/badge/-akashgupta42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgupta42)](https://www.linkedin.com/in/akashgupta42)
 [![Gmail Badge](https://img.shields.io/badge/-aakkash15r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakkash15r@gmail.com)](mailto:aakkash15r@gmail.com)
 
 
@@ -21,7 +21,7 @@ I am Akash Gupta, exploring & learning web dev everyday. I am a Backend develope
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,git,github,redis,html,css,js,vscode)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,git,github,redis,html,css,js,vscode)](https://skillicons.dev) -->
 
 
 
